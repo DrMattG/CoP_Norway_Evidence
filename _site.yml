@@ -1,7 +1,7 @@
 name: "CoP_Norway_Evidence"
 title: "Community of Practice for Biodiversity & Climate Evidence Synthesis in Norway"
 description: |
- A Community of Practice for Biodiversity & Climate Evidence Synthesis in Norway
+ "A Community of Practice for Biodiversity & Climate Evidence Synthesis in Norway"
 output_dir: "docs"
 navbar:
   right:
