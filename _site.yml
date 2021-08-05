@@ -1,0 +1,12 @@
+name: "CoP_Norway_Evidence"
+title: "Community of Practice Biodiversity Evidence Synthesis in Norway"
+description: |
+  Community of Practice Biodiversity Evidence Synthesis in Norway
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
