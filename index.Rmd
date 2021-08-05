@@ -1,8 +1,9 @@
 ---
-title: "Community of Practice Biodiversity Evidence Synthesis in Norway"
+title: "Community of Practice (CoP) for Biodiversity & Climate Evidence Synthesis in Norway"
 description: |
-  Welcome to the website. I hope you enjoy it!
+ Here is the beginning of a Community of Practice focused on ensuring that robust methods for synthesising evidence are used, and new methods, tools and frameworks are developed, to provide the best possible evidence to policy makers.   
 site: distill::distill_website
+listing: posts
 ---
 
 ```{r setup, include=FALSE}

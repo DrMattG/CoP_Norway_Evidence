@@ -1,0 +1,70 @@
+[
+  {
+    "path": "posts/2021-08-05-background-and-needs/",
+    "title": "Background",
+    "description": "What are the aims of this CoP",
+    "author": [
+      {
+        "name": "Matt",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-05",
+    "categories": [],
+    "contents": "\r\nThe move toward Evidence-based (or “Evidence-informed”) policy and the need to identify which actions or interventions work in conserving biodiversity and mitigating climate change, mean that we need robust methodologies, tools, and frameworks to synthesise diverse sources of evidence often under high uncertainty. The main purpose of the Community of Practice (CoP) is to be a forum for sharing expertise, sharing experience, and developing new methods, tools and frameworks, for rigorous evidence synthesis. As Evidence Synthesis methods are discipline agnostic it is vital that we learn from other disciplines and as such the CoP will be linked to other networks of international interdisciplinary Evidence Synthesists. The CoP will benefit both research and policy making (decision making) in the realm of biodiversity, environment and climate. In addition, new tools, methods and frameworks developed will have wider impact on other areas of the science-policy interface.\r\nAims\r\nThe aims of this network are to develop a “community of practice” which:\r\nprovides Norwegian researchers (in the related disciplines of biodiversity conservation, climate and the environment) opportunities to learn best practice in the synthesis of evidence for policy with international interdisciplinary evidence synthesists\r\nprovides Norwegian researchers opportunities to develop methods for evidence synthesis in collaboration with a network of international interdisciplinary evidence synthesists\r\nestablishes a Norwegian “Hub” of evidence synthesists, focused on biodiversity conservation, and climate and the environment, to promote change through the production and use of systematic evidence synthesis for evidence-based policy and practice.\r\nEvidence-informed decision making is increasingly considered as best-practice across multiple fields (Head, 2010). The concept, which can be described as the “…the application of rigorous research methods, …to build credible evidence about ‘what works’…” along with “…the use of such evidence to focus public and private resources on programs, practices, and treatments (‘interventions’) shown to be effective” (Baron 2018), was first developed in psychology (Glass & Smith, 1979). However, it was in medicine that the concept was to make the first wide-reaching changes to society. Cochrane was established in 1993 and consolidates evidence and supports synthesis in healthcare. Cochrane Reviews underpin, for example, the UK’s National health guidelines which are routinely used in making decisions about patient care. In the late 1990s, the concept of systematic evidence synthesis was being applied to sociological and behavioural research leading to the establishment of the Campbell Collaboration in social policy. This organisation seeks to promote “positive social and economic change through the production and use of systematic reviews and other evidence synthesis for evidence-based policy and practice”.\r\nBiodiversity and environmental researchers started to identify a need for evidence-informed (or “evidence-based”) conservation in the early 2000’s (e.g. Pullin & Knight 2001; Sutherland et al. 2004; Fazey et al. 2004). The Collaboration for Environmental Evidence (CEE) was established in the mid-2000s and is an “open community of stakeholders working towards a sustainable global environment and the conservation of biodiversity. CEE seeks to promote and deliver evidence syntheses on issues of greatest concern to environmental policy and practice as a public service” .\r\nNorwegian government bodies such as the Norwegian Food Safety Authority and the Norwegian Environment Agency are increasingly seeking summaries of evidence to help make decisions about present and future environmental and biodiversity “risks”. The Norwegian Environment Agency is “responsible for acquiring knowledge and implementing measures to preserve biodiversity as best as possible”. This implies that knowing which interventions work in preserving biodiversity need to be known and communicated; and the best way to do this is through formal evidence synthesis.\r\nNorwegian Institutes, such as NINA and Committees, such as VKM, already provide a large amount of evidence synthesis (both formal and informal) and risk analysis for national and local Norwegian government bodies. The proposed network will bring these organisations together (and will be fully open to any other interested parties such as Universities, government departments, etc.) in to a “community of practice”.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-05T14:14:41+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-08-05-useful-links-to-resources/",
+    "title": "Useful links to resources",
+    "description": "Here are some resources that may be useful if you are planning to synthesise evidence",
+    "author": [
+      {
+        "name": "Matt",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-05",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-05T14:24:01+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-08-05-what-is-a-community-of-practice/",
+    "title": "What is a Community of Practice",
+    "description": "A quick introduction to what a \"Community of Practice is\"",
+    "author": [
+      {
+        "name": "Matt",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-05",
+    "categories": [],
+    "contents": "\r\n“A CoP is a group of people who share a common concern, a set of problems, or an interest in a topic and who come together to fulfil both individual and group goals”. In evidence synthesis CoPs are vital for sharing expertise, sharing experience, and developing new methods, tools and frameworks, for rigorous evidence synthesis. CoPs can be both within (e.g. https://www.cochrane.no/nb) and cross-disciplinary (e.g. http://www.gesiinitiative.com ), focusing on the entire evidence-informed decision-making process (e.g. https://jbi.global/) or on specific components of the process (e.g. https://www.eshackathon.org/). Evidence synthesis methodologies are discipline agnostic and therefore we can learn a lot from the experience of other fields.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-05T13:39:56+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-08-05-why-do-we-need-this-cop/",
+    "title": "Why do we need this CoP?",
+    "description": "In evidence synthesis CoPs are vital for rigorous evidence synthesis",
+    "author": [
+      {
+        "name": "Matt",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-05",
+    "categories": [],
+    "contents": "\r\nCoPs provide benefits in sharing expertise, sharing experience, and developing new methods, tools and frameworks.\r\nIn addition, there exist several challenges with producing robust and reliable evidence synthesis in the fields of biodiversity conservation and climate change. For example:\r\nCurrent research and publishing practices: questionable research practices (Fraser et al. 2018), for example, mean that reproducibility of published research is low and that effect sizes are often inflated.\r\nPractitioners (those who make use of the evidence) perceive the value of evidence synthesis to be low: This is particularly apparent when local conditions are not considered (Gutzat et al. 2020; Walsh 2019, O’Connell & White, 2017).\r\nFull systematic evidence synthesis (e.g. systematic reviews, meta-analysis, systematic maps, etc.) can be “time consuming” and “expensive” (Sutherland et al. 2019).\r\nThere is little evidence available in our field; interventions are only tested on a small subset of species and locations (Christie et al. 2020a,b; Junker et al. 2020).\r\nHigh heterogeneity in ecology (natural variation as well as variation in the quality of studies on an intervention) often means that there is high uncertainty associated with evidence synthesis.\r\nThe existence of these challenges has led to the development of several approaches that attempt to speed-up the summary of evidence aiming at making use of all the available evidence in a less resource-intensive way. These methods often remove key steps in the evidence-synthesis workflow (for example critical appraisal of the evidence) but are not always transparent about the potential consequences of this. These approaches can be, superficially, attractive because they typically allow for simpler conclusions and recommendations which align well with expectations. However, evidence is often highly uncertain with a myriad of potential biases that need to be at least accounted for if not mitigated against. Therefore, there needs to be robust methodology underpinning policy recommendations to reduce this uncertainty and to reduce the risks of poor decision making which can lead to a waste of public funds. There also needs to be a community of highly skilled evidence synthesists who can exploit these methods to ensure transparent and robust evidence-based decision making is achievable.\r\nBy developing a CoP of Evidence synthesists in Norway we can ensure that the best methods are used, and that new methods, tools and frameworks are developed to provide the best possible evidence to policy makers.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-05T14:12:07+02:00",
+    "input_file": {}
+  }
+]

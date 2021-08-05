@@ -1,0 +1,38 @@
+---
+title: "Why do we need this CoP?"
+description: |
+  In evidence synthesis CoPs are vital for rigorous evidence synthesis 
+author:
+  - name: Matt
+    url: {}
+date: 08-05-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+CoPs provide benefits in **sharing expertise**, **sharing experience**, and **developing new methods**, **tools** and **frameworks**. 
+
+
+In addition, there exist several challenges with producing robust and reliable evidence synthesis in the fields of biodiversity conservation and climate change. For example:
+
+*	Current research and publishing practices: questionable research practices (Fraser et al. 2018), for example, mean that reproducibility of published research is low and that effect sizes are often inflated. 
+
+*	Practitioners (those who make use of the evidence) perceive the value of evidence synthesis to be low:  This is particularly apparent when local conditions are not considered (Gutzat et al. 2020; Walsh 2019, O'Connell & White, 2017). 
+
+*	Full systematic evidence synthesis (e.g. systematic reviews, meta-analysis, systematic maps, etc.) can be “time consuming” and “expensive” (Sutherland et al. 2019). 
+
+*	There is little evidence available in our field; interventions are only tested on a small subset of species and locations (Christie et al. 2020a,b; Junker et al. 2020). 
+
+*	High heterogeneity in ecology (natural variation as well as variation in the quality of studies on an intervention) often means that there is high uncertainty associated with evidence synthesis. 
+
+The existence of these challenges has led to the development of several approaches that attempt to speed-up the summary of evidence aiming at making use of all the available evidence in a less resource-intensive way. These methods often remove key steps in the evidence-synthesis workflow (for example critical appraisal of the evidence) but are not always transparent about the potential consequences of this. 
+These approaches can be, superficially, attractive because they typically allow for simpler conclusions and recommendations which align well with expectations. However, evidence is often highly uncertain with a myriad of potential biases that need to be at least accounted for if not mitigated against. Therefore, there needs to be robust methodology underpinning policy recommendations to reduce this uncertainty and to reduce the risks of poor decision making which can lead to a waste of public funds. There also needs to be a community of highly skilled evidence synthesists who can exploit these methods to ensure transparent and robust evidence-based decision making is achievable. 
+
+By developing a CoP of Evidence synthesists in Norway we can ensure that the best methods are used, and that new methods, tools and frameworks are developed to provide the best possible evidence to policy makers.   

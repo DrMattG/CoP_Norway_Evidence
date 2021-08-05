@@ -1,10 +1,19 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  This website is the first step in developing a Community of Practice around evidence synthesis for Biodiversity and Climate in Norway
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Membership of the Community of Practice
+
+If you (an individual or an organisation) would like to join this Community of Practice please contact us. Any evidence producers or evidence users are more than welcome to join the Community. 
+
+You can contact [Dr Matthew Grainger](https://www.nina.no/Kontakt/Ansatte/Ansattinformasjon.aspx?AnsattID=16028) at NINA for more details and an informal discussion. 
+
+# Status of the Community of Practice
+
+We are currently applying for funds to consolidate the Community of Practice

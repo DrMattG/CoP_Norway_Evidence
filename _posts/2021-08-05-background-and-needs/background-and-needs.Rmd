@@ -1,0 +1,39 @@
+---
+title: "Background"
+description: |
+  What are the aims of this CoP
+author:
+  - name: Matt
+    url: {}
+date: 08-05-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The move toward Evidence-based (or “Evidence-informed”) policy and the need to identify which actions or interventions work in conserving biodiversity and mitigating climate change, mean that we need robust methodologies, tools, and frameworks to synthesise diverse sources of evidence often under high uncertainty. The main purpose of the Community of Practice (CoP) is to be a forum for sharing expertise, sharing experience, and developing new methods, tools and frameworks, for rigorous evidence synthesis. As Evidence Synthesis methods are discipline agnostic it is vital that we learn from other disciplines and as such the CoP will be linked to other networks of international interdisciplinary Evidence Synthesists. The CoP will benefit both research and policy making (decision making) in the realm of biodiversity, environment and climate. In addition, new tools, methods and frameworks developed will have wider impact on other areas of the science-policy interface.       
+
+# Aims
+
+The aims of this network are to develop a “community of practice” which:
+
+*	provides Norwegian researchers (in the related disciplines of biodiversity conservation, climate and the environment) opportunities to learn best practice in the synthesis of evidence for policy with international interdisciplinary evidence synthesists
+
+*	provides Norwegian researchers opportunities to develop methods for evidence synthesis in collaboration with a network of international interdisciplinary evidence synthesists
+
+*	establishes a Norwegian “Hub” of evidence synthesists, focused on biodiversity conservation, and climate and the environment, to promote change through the production and use of systematic evidence synthesis for evidence-based policy and practice. 
+
+Evidence-informed decision making is increasingly considered as best-practice across multiple fields (Head, 2010). The concept, which can be described as the “…the application of rigorous research methods, …to build credible evidence about ‘what works’…” along with “…the use of such evidence to focus public and private resources on programs, practices, and treatments (‘interventions’) shown to be effective” (Baron 2018), was first developed in psychology (Glass & Smith, 1979). However, it was in medicine that the concept was to make the first wide-reaching changes to society. [Cochrane](https://www.cochranelibrary.com/) was established in 1993 and consolidates evidence and supports synthesis in healthcare. Cochrane Reviews underpin, for example, the UK’s National health guidelines which are routinely used in making decisions about patient care. In the late 1990s, the concept of systematic evidence synthesis was being applied to sociological and behavioural research leading to the establishment of the [Campbell Collaboration](https://www.campbellcollaboration.org/) in social policy. This organisation seeks to promote “positive social and economic change through the production and use of systematic reviews and other evidence synthesis for evidence-based policy and practice”.
+
+Biodiversity and environmental researchers started to identify a need for evidence-informed (or “evidence-based”) conservation in the early 2000’s (e.g. Pullin & Knight 2001; Sutherland et al. 2004; Fazey et al. 2004). The [Collaboration for Environmental Evidence (CEE)](https://environmentalevidence.org/) was established in the mid-2000s and is an “open community of stakeholders working towards a sustainable global environment and the conservation of biodiversity. CEE seeks to promote and deliver evidence syntheses on issues of greatest concern to environmental policy and practice as a public service” .
+
+Norwegian government bodies such as the Norwegian Food Safety Authority and the Norwegian Environment Agency are increasingly seeking summaries of evidence to help make decisions about present and future environmental and biodiversity “risks”. The [Norwegian Environment Agency](https://www.environmentagency.no) is “responsible for acquiring knowledge and implementing measures to preserve biodiversity as best as possible”. This implies that knowing which interventions work in preserving biodiversity need to be known and communicated; and the best way to do this is through formal evidence synthesis. 
+
+Norwegian Institutes, such as [NINA](www.nina.no) and Committees, such as [VKM](www.vkm.no), already provide a large amount of evidence synthesis (both formal and informal) and risk analysis for national and local Norwegian government bodies. The proposed network will bring these organisations together (and will be fully open to any other interested parties such as Universities, government departments, etc.) in to a “community of practice”. 
+
+
